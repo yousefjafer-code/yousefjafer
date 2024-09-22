@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(57, 7, 173, 0.822);
+    padding: 77px;
+}
+
+.white {
+    color: white;
+}
+
+.window {
+    background-color: white;
+    padding-left: 47px;
+    padding-top: 5px;
+    border-radius: 15px;
+    box-shadow: -19px 4px 20px 0px red;
+    display: block;
+}
+
+.one {
+    width: 368px;
+    z-index: 1;
+    position: absolute;
+}
+
+.two {
+    width: 300px;
+    position: absolute;
+    right: 490px;
+    top: 275px;
+    z-index: 0;
+}
+
+.price {
+    font-size: xx-large;
+}
+
+.shadow {
+    text-shadow: 0 4px 4px orange;
+}
